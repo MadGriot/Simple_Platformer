@@ -23,7 +23,7 @@
   ],
   "name":"spr_player",
   "nineSlice":null,
-  "origin":0,
+  "origin":1,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
@@ -73,12 +73,9 @@
               },"Disabled":false,"id":"7ae55712-b317-4b93-a905-3fcae964c530","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
-    "visibleRange":{
-      "x":0.0,
-      "y":0.0,
-    },
+    "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
+    "xorigin":16,
     "yorigin":0,
   },
   "swatchColours":null,
